@@ -1,8 +1,8 @@
 # audio_visualizer
 visualized audio in js
 ```npm i```
+
 ```npm run dev```
+
 upload the file using the button on the top and play.
-
-Uploading Vite App - Brave 2023-03-06 02-32-36.mp4…
-
+![audio_visualizer](https://user-images.githubusercontent.com/27698694/222986366-49708cf1-ed86-4138-aa0d-62f3503491b4.gif)
