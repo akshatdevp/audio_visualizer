@@ -1,5 +1,6 @@
 # audio_visualizer
 visualized audio in js
+
 ```npm i```
 
 ```npm run dev```
